@@ -11,7 +11,7 @@
      <key>kind</key>
      <string>software-package</string>
      <key>url</key>
-<!-- http或者https链接的ipa文件地址 -->
+    <!-- http或者https链接的ipa文件地址 -->
      <string>https://github.com/yaoliangjun/appUpgrade/blob/master/BBTrade.ipa?raw=true</string>
     </dict>
     <dict>
@@ -20,7 +20,7 @@
      <key>needs-shine</key>
      <true/>
      <key>url</key>
-<!-- http或者https链接的图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
+    <!-- http或者https链接的图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
      <string>https://p55vy8x23.bkt.clouddn.com/upgrade-logo.jpg</string>
     </dict>
     <dict>
@@ -29,23 +29,25 @@
      <key>needs-shine</key>
      <true/>
      <key>url</key>
-<!-- http或者https链接的小图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
+    <!-- 安装时桌面显示的 logo 图标 -->
      <string>https://p55vy8x23.bkt.clouddn.com/upgrade-logo.jpg</string>
     </dict>
    </array>
    <key>metadata</key>
    <dict>
     <key>bundle-identifier</key>
-<!-- BundleID，就是新建app时的包名 -->
+    <!-- BundleID，就是新建app时的包名 -->
     <string>com.weiqitong.bbtrade</string>
     <key>bundle-version</key>
-<!-- 版本号 -->
+    <!-- 版本号 -->
     <string>1.0.1</string>
     <key>kind</key>
     <string>software</string>
+    <!-- 安装app时的提示信息 -->
+    <key>subtitle</key>
+    <string>赶紧安装体验吧</string>
     <key>title</key>
-<!-- 安装app时的提示信息 -->
-    <string>BBTrade正在安装中</string>
+    <string>BBTrade</string>
    </dict>
   </dict>
  </array>
