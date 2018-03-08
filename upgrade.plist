@@ -27,7 +27,7 @@
      <key>kind</key>
      <string>display-image</string>
      <key>needs-shine</key>
-     <true/>
+     <false/>
      <key>url</key>
     <!-- 安装时桌面显示的 logo图标 57x57 -->
      <string>http://p55vy8x23.bkt.clouddn.com/upgrade-logo.png</string>
