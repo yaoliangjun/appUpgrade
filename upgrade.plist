@@ -16,20 +16,11 @@
     </dict>
     <dict>
      <key>kind</key>
-     <string>full-size-image</string>
-     <key>needs-shine</key>
-     <true/>
-     <key>url</key>
-    <!-- http或者https链接的图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>http://p55vy8x23.bkt.clouddn.com/iTunesArtwork.png</string>
-    </dict>
-    <dict>
-     <key>kind</key>
      <string>display-image</string>
      <key>needs-shine</key>
      <true/>
      <key>url</key>
-    <!-- 安装时桌面显示的 logo 图标 -->
+    <!-- 安装时桌面显示的 logo图标 57x57 -->
      <string>http://p55vy8x23.bkt.clouddn.com/upgrade-logo.png</string>
     </dict>
    </array>
