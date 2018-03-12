@@ -35,11 +35,11 @@
 				<key>bundle-identifier</key>
 				<string>com.weiqitong.bbtrade</string>
 				<key>bundle-version</key>
-				<string>1.0.1</string>
+				<string>2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>币币交易所</string>
+				<string>B8.top</string>
 			</dict>
 		</dict>
 	</array>
