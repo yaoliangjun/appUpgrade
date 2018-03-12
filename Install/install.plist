@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/LengYi/PlistInstallHD/master/Install/tui.ipa</string>
+					<string>https://raw.githubusercontent.com/yaoliangjun/appUpgrade/master/Install/BBTrade.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/LengYi/PlistInstallHD/master/Install/AppIcon.png</string>
+					<string>https://raw.githubusercontent.com/yaoliangjun/appUpgrade/master/Install/AppIcon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,19 +27,19 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/LengYi/PlistInstallHD/master/Install/AppIcon.png</string>
+					<string>https://raw.githubusercontent.com/yaoliangjun/appUpgrade/master/Install/AppIcon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.tongbu.tuihd.Z2H3GSNJHN</string>
+				<string>com.weiqitong.bbtrade</string>
 				<key>bundle-version</key>
-				<string>3.1.1</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>同步推正版HD</string>
+				<string>币币交易所</string>
 			</dict>
 		</dict>
 	</array>
