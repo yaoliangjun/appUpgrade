@@ -12,7 +12,7 @@
      <string>software-package</string>
      <key>url</key>
     <!-- https链接的ipa文件地址 -->
-     <string>https://github.com/yaoliangjun/appUpgrade/blob/master/doc/BBTrade.ipa?raw=true</string>
+     <string>http://p55vy8x23.bkt.clouddn.com/doc/BBTrade.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -21,7 +21,7 @@
      <true/>
      <key>url</key>
     <!-- http图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>https://github.com/yaoliangjun/appUpgrade/blob/master/doc/app-logo-512.png</string>
+     <string>http://p55vy8x23.bkt.clouddn.com/doc/app-logo-512.png</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -30,7 +30,7 @@
      <true/>
      <key>url</key>
     <!-- 安装时桌面显示的 logo图标 57x57 -->
-     <string>https://github.com/yaoliangjun/appUpgrade/blob/master/doc/app-logo-58.png</string>
+     <string>http://p55vy8x23.bkt.clouddn.com/doc/app-logo-58.png</string>
     </dict>
    </array>
    <key>metadata</key>
